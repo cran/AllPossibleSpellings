@@ -10,19 +10,17 @@
 \tabular{ll}{
 Package: \tab AllPossibleSpellings\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2010-02-25\cr
+Version: \tab 1.1\cr
+Date: \tab 2010-11-12\cr
 License: \tab GPL-2\cr
 LazyLoad: \tab yes\cr
 }
 The package contains the function \code{possSpells.fnc} and \code{batch.possSpells.fnc}.
 }
 \author{
-Antoine Tremblay
+Antoine Tremblay, IWK Health Center
 
 Maintainer: Antoine Tremblay <trea26@gmail.com>
-}
-\references{
 }
 
 \keyword{AllPossibleSpellings}

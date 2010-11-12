@@ -8,11 +8,7 @@
 }
 \details{The files have to be in \code{.rda} format and must contain an object named \code{words}, which is a vector of words in Sampa phonetic script.}
 \value{Saves (i) a log of the process activities to a \code{FILE_NAME_log.doc} file and (ii) all of the words' possible spellings to a \code{FILE_NAME.doc} file.}
-\references{
-}
-\author{Antoine Tremblay <trea26@gmail.com>}
-\note{
-}
+\author{Antoine Tremblay, IWK Health Center, <trea26@gmail.com>}
 
 \seealso{
 \code{\link{possSpells.fnc}}

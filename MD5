@@ -1,0 +1,7 @@
+76e5b1e1828b9168bbf36e503e6b43a8 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+7767148b6727ccef9510c1e3876d3d2f *R/batch.possSpells.fnc.R
+53d643b9a80d19acb8d155beb3794999 *R/possSpells.fnc.R
+b46ca5775435831d1958fd78ea4457ed *man/AllPossibleSpellings-package.Rd
+945781135656ca0ac3865f690edceaed *man/batch.possSpells.fnc.Rd
+dbcf20f562d8f081c317af184d1fb757 *man/possSpells.fnc.Rd

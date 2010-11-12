@@ -9,12 +9,8 @@ possSpells.fnc(words)
   \item{words}{Note that the words have to be in Sampa phonetic notation. Also note that the Sampa symbols \code{left curly bracket} and \code{@ prime} (where \code{prime} is an actual prime symbol) have to replaced by \code{ZZZ} and \code{RRR} respectively. Further note that the individual phonemes of a word have to be separated by an underscore \code{_}.}
 }
 \details{The function returns a vector containing all of a word's possible spellings.}
-\references{
-}
-\author{Antoine Tremblay <trea26@gmail.com>}
-\note{
-}
 
+\author{Antoine Tremblay, IWK Health Center, <trea26@gmail.com>}
 
 \seealso{
 \code{\link{batch.possSpells.fnc}}
